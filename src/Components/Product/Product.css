@@ -1,3 +1,17 @@
-.divProduct{
-     display: flex;
+.title-seccion1{
+     font-size: 40px;
+     font-weight: 700;
+     text-align: center;
+     margin-top: 60px;
+     margin-bottom: 60px;
 }
+
+
+.divProduct-seccion1{
+     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+     margin-bottom: 60px;
+}
+

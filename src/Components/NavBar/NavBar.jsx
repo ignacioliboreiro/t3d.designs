@@ -25,6 +25,7 @@ const NavBar = () => {
         </div>
       </div>
     </nav>
+<img src="/public/Home.jpg" alt="img-Home" className='img-home' />
     </div>
   )
 }
