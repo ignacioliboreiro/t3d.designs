@@ -2,11 +2,11 @@
   padding: 0;
   margin: 0;
 }
-/* From Uiverse.io by csemszepp */ 
+
 .container {
   width: 100%;
   height: 100%;
-  --s: 105px; /* control the size */
+  --s: 105px; 
   --c1: #b9b9b9;
   --c2: #dcdcdc;
   --c3: #fafafa;
@@ -36,5 +36,5 @@
       var(--c3) 0
     );
   background-size: var(--s) calc(var(--s) / 0.577);
-  /* 0.577=tan(30deg)*/
+
 }
